@@ -2,8 +2,6 @@
 
 <?php include_once(__DIR__ . '/__nav.php'); ?>
 
-<?php include_once(__DIR__ . '/__aside.php'); ?>
-
 <!-- Content Wrapper. Contains page content -->
 <div class="content-wrapper">
   <!-- Content Header (Page header) -->
